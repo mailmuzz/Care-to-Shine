@@ -4,4 +4,4 @@ Disallow: /cgi-bin
 User-agent: *
 Allow: /
 
-Sitemap: https://www.caretoshine.com.au/sitemap.xml
+Sitemap: https://caretoshine.com.au/sitemap.xml

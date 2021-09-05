@@ -65,7 +65,7 @@
     "mbrsiteDomain": "ctssimple",
     "cssOptimize": true,
     "pwa-switcher": false,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\nUser-agent: *\nAllow: /\n\nSitemap: https://www.caretoshine.com.au/sitemap.xml",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\nUser-agent: *\nAllow: /\n\nSitemap: https://caretoshine.com.au/sitemap.xml\n",
     "canonical-url": false
   },
   "pages": {
